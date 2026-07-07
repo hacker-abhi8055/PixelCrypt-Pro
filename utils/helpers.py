@@ -1,7 +1,3 @@
-"""
-Utility Helper Functions
-"""
-
 import os
 
 
