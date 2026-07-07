@@ -1,3 +1,4 @@
+
 import customtkinter as ctk
 
 ctk.set_appearance_mode("Dark")
@@ -8,10 +9,9 @@ WINDOW_HEIGHT = 700
 
 COLORS = {
     "bg": "#0B1120",
-    "card": "#111827",
+    "sidebar": "#111827",
+    "card": "#1F2937",
     "primary": "#00E5FF",
-    "success": "#22C55E",
-    "danger": "#EF4444",
     "text": "#FFFFFF",
-    "muted": "#94A3B8"
+    "success": "#22C55E",
 }

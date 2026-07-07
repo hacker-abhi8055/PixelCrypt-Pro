@@ -1,12 +1,8 @@
-from ui.home import HomeWindow
-
+from ui.dashboard import Dashboard
 
 def main():
-
-    app = HomeWindow()
-
+    app = Dashboard()
     app.mainloop()
-
 
 if __name__ == "__main__":
     main()
